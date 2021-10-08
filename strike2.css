@@ -17,9 +17,6 @@ a{
 ul{
     list-style: none;
 }
-li:hover{
-    color:chartreuse;
-}
 img{
     border:2px solid rebeccapurple;
 }
@@ -125,7 +122,7 @@ body{
 .pop li {
     font-size: 15px;
 }
-.pop:hover a {
+a:hover {
     color: chartreuse;
 }
 .pop>li:hover li {
